@@ -1,1 +1,1 @@
-# This is mainly by python languange tasks and experiments
+Mainly  python languange tasks and experiments
