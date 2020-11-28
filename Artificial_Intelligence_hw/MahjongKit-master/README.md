@@ -2,6 +2,7 @@
 |Author|Jianyang Tang (Thomas)|
 |---|---
 |E-mail|jian4yang2.tang1@gmail.com
+|E-mail|junpenggaox@gmail.com
 
 # Contents
 * [1. Game log crawler: GameLogCrawler](#crawl)
